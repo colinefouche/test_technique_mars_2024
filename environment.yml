@@ -1,0 +1,13 @@
+name: test-cf-env
+
+dependencies:
+  - python=3.7
+  - ipython=7.4
+  - pandas=0.24
+  - matplotlib=3.5
+  - networkx=2.6
+  - pip=10.0
+  - pip:
+    - pyvis=0.3
+
+
